@@ -1,2 +1,3 @@
 # helloworld
 Just Another Repository 
+Hy guys my self Shikhar Dahal currently living in temporary city bhaktapur and permantent address being biratnagar pursuing my bachelor degree in computer science and informaton technology(CSIT) in Bhaktapur Multiple Campus located at dudpati nearby siddhapokhari. I had done 3 months class in PHP language in short term and completed two projects one news portal and other ecommerce. I have used backend PHP language and frontend Node.js,Js.Bootstrap as a css framework.Database as a mysql and text editor used was sublime text 3 html as a markup language, css for styling.  
